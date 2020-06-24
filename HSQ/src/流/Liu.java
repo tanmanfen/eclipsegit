@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 package Á÷;
 //aaaa
+=======
+package ÃÃ·;
+//cccc
+>>>>>>> branch 'master' of https://github.com/tanmanfen/eclipsegit.git
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
